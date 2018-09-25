@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 #A script that will greet me
 
 myname=kyle
