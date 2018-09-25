@@ -3,6 +3,8 @@
 
 myname=kyle
 mytitle=supreme
-myos=ubuntu
+hostname=$(hostname)
+today=$(date)
 
-echo "Welcome to planet" $myos $mytitle $myname
+echo "Welcome to planet" $hostname $mytitle $myname
+echo "Today is $today"
