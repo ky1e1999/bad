@@ -3,5 +3,6 @@
 
 myname=kyle
 mytitle=supreme
+myos=ubuntu
 
-echo "Welcome to planet Ubuntu" $mytitle $myname
+echo "Welcome to planet" $myos $mytitle $myname
